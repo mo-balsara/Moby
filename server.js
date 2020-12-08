@@ -1,6 +1,3 @@
-//store the webserver stuff here, as it is otherwise going to confuse you. Just require this file
-
-
 const express = require('express');
 const app = express();
 
