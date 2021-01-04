@@ -11,9 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "moment": "^2.29.1",
     "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "got": "^11.8.0",
+    "moment": "^2.29.1",
     "moment-timezone": "^0.5.32",
-    "got": "^11.8.0"
+    "mongodb": "^3.6.3",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
   }
 }
