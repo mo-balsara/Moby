@@ -1,0 +1,23 @@
+module.exports = {
+	name: 'test',
+  aliases: ['test2', 't'],
+
+	description: '',
+
+  args: true,
+  //args required?
+
+  usage: '<user> <role>',
+  //usage of command
+
+  guildOnly: true,
+
+  cooldown: 5,
+  //in secs
+
+  permissions: 'ADMINISTRATOR',
+
+	execute(message, args) {
+//stuff
+	},
+};

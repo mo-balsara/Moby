@@ -20,7 +20,7 @@ module.exports = {
 
 			embed.setTitle(`${memeTitle}`);
 			embed.setURL(`${memeUrl}`);
-			embed.setColor('RANDOM');
+			embed.setColor('ORANGE');
 			embed.setImage(memeImage);
 			embed.setFooter(`👍 ${memeUpvotes} 💬 ${memeNumComments}`);
 
