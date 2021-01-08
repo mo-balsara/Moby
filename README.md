@@ -1,8 +1,6 @@
 # Moby The Discord Bot
 
-The discord bot of the future
-
-
+### The discord bot of the future
 
 Some helpful sources!
 
